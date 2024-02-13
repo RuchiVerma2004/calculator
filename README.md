@@ -11,4 +11,5 @@ This project contains a simple calculator implemented using HTML, CSS, and JavaS
 ## Usage
 
 1. Clone the repository:
- 
+ ```bash
+   git clone https://github.com/RuchiVerma2004/calculator.git
